@@ -1,0 +1,28 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\bin\Debug\calculator.exe.config
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\bin\Debug\calculator.exe
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\bin\Debug\calculator.pdb
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\obj\Debug\calculator.Form1.resources
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\obj\Debug\calculator.exe
+G:\Предыдущие года\ПМ 04\Практика 1 семестр\Лабораторная №3\Cи #\calculator\calculator\calculator\obj\Debug\calculator.pdb
